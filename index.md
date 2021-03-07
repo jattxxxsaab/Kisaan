@@ -54,6 +54,4 @@
 - [Ranjit Singh](https://www.youtube.com/watch?v=qUVnJSt_9lA)
 
 # Todays hashtag
-
-<a href="https://twitter.com/intent/tweet?button_hashtag=LoveTwitter&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="This is the test" data-show-count="false">Tweet #LoveTwitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+- [#bjp_attack_on_farmers](https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Fhashtags%3Dbjp_attack_on_farmers%2C%26original_referer%3Dgoogle.com%26ref_src%3Dtwsrc%5Etfw%26text%3DThis%20is%20the%20message%20with%20hastag%26tw_p%3Dtweetbutton)
