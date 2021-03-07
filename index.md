@@ -54,4 +54,4 @@
 - [Ranjit Singh](https://www.youtube.com/watch?v=qUVnJSt_9lA)
 
 # Todays hashtag
-- [#bjp_attack_on_farmers](https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Fhashtags%3Dbjp_attack_on_farmers%2C%26original_referer%3Dgoogle.com%26ref_src%3Dtwsrc%5Etfw%26text%3DThis%20is%20the%20message%20with%20hastag%26tw_p%3Dtweetbutton)
+- [#bjp_attack_on_farmers](https://twitter.com/intent/tweet?hashtags=bjp_attack_on_farmers,&original_referer=google.com&ref_src=twsrc^tfw&text=This is the message with hastag&tw_p=tweetbutton)
