@@ -49,3 +49,6 @@
 # Web
 - [Baaz News](https://www.baaznews.org/)
 
+# Specific Topics
+- [Ranjit Singh](https://www.youtube.com/watch?v=qUVnJSt_9lA)
+
