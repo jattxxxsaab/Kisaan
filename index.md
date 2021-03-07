@@ -35,3 +35,16 @@
 - [@rupikaur_](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgoogle.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=rupikaur_&tw_p=followbutton)
 
 
+# Youtube
+- [Kisan Ekta Morcha](https://www.youtube.com/channel/UC4mGFTV86AR8VeJmusu1QWQ)
+- [The Wire](https://www.youtube.com/channel/UChWtJey46brNr7qHQpN6KLQ)
+- [Ravish Kumar - NDTV](https://www.youtube.com/hashtag/ravishkumar)
+- [Punya Prasun Bajpai](https://www.youtube.com/channel/UCXCG3leC3eHChlU2OPWMk_A)
+- [Ajit Anjum](https://www.youtube.com/channel/UCkquFW943phrj5RbNqtqj4w)
+- [Akaal Channel](https://www.youtube.com/channel/UC52IQoZ4fFp_LccSMsZATXg)
+- [Pro Punjab TV](https://www.youtube.com/channel/UCCr0ngRlzR4BArGjR2v2cNw)
+- [News 18 Punjab/Haryana/Himachal](https://www.youtube.com/channel/UC-crZTQNRzZgzyighTKF0nQ)
+
+# Web
+- [Baaz News](https://www.baaznews.org/)
+
