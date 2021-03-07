@@ -44,6 +44,7 @@
 - [Akaal Channel](https://www.youtube.com/channel/UC52IQoZ4fFp_LccSMsZATXg)
 - [Pro Punjab TV](https://www.youtube.com/channel/UCCr0ngRlzR4BArGjR2v2cNw)
 - [News 18 Punjab/Haryana/Himachal](https://www.youtube.com/channel/UC-crZTQNRzZgzyighTKF0nQ)
+- [News Laundry](https://www.youtube.com/channel/UCustbySVJGb659WDpdkeATg)
 
 # Web
 - [Baaz News](https://www.baaznews.org/)
