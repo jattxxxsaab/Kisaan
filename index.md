@@ -1,5 +1,5 @@
 # Todays hashtag
-- [\#bjp_attack_on_farmers](https://twitter.com/intent/tweet?hashtags=LoveTwitter%2C&original_referer=https%3A%2F%2Fgoogle.com%2F&ref_src=twsrc%5Etfw&text=This%20is%20the%20test&tw_p=tweetbutton)
+- [\#bjp_attack_on_farmers](https://twitter.com/intent/tweet?hashtags=bjp_attack_on_farmers%2C&original_referer=https%3A%2F%2Fgoogle.com%2F&ref_src=twsrc%5Etfw&text=This%20is%20the%20test&tw_p=tweetbutton)
 <a href="https://twitter.com/intent/tweet?button_hashtag=LoveTwitter&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="This is the test" data-show-count="false">Tweet #LoveTwitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Twitter 
